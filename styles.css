@@ -1,0 +1,88 @@
+#earth{
+    position: absolute;
+    top: -4%;
+    right: 20%;
+}
+
+#A{
+    font-family: MyCustomFont;
+    font-size: 100px;
+    position: fixed;
+    top: -120;
+    padding: 0;
+    right: 980;
+   }
+
+#Willingness{
+    font-family: MyCustomFont;
+    font-size: 100px;
+    position: fixed;
+    top: -40;
+}
+
+#to{
+    font-family: MyCustomFont;
+    font-size: 100px;
+    position:fixed;
+    top: 30;
+}
+
+#Unite{
+    font-family: MyCustomFont;
+    font-size:100px;
+    position: fixed;
+    top: 120;
+}
+
+#way{
+    font-family: MyCustomFont;
+    font-size: 100px;
+    position: fixed;
+    top: 205;
+}
+
+#we{
+    font-family: MyCustomFont;
+    font-size: 100px;
+    position: fixed;
+    top: 280;
+}
+
+#Think{
+    font-family: MyCustomFont;
+    font-size: 100px;
+    position: fixed;
+    top: 370;
+}
+
+#with{
+    font-family: MyCustomFont;
+    font-size: 100px;
+    position: fixed;
+    top: 370;
+    right: 500;
+}
+
+#ACT{
+    font-family: MyCustomFont;
+    font-size: 100px;
+    position: fixed;
+    top: 370;
+    right: 92;
+}
+
+#Hooks{
+    font-family: MyCustomFont;
+    font-size: 60px;
+    position: fixed;
+    top: 500;
+    right: 950;
+}
+@font-face {
+    font-family: 'MyCustomFont';
+    src: url('fonts/Tagesschrift-Regular.woff') format('Font');
+  }
+  
+  body {
+    font-family: 'MyCustomFont', sans-serif;
+}
